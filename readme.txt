@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 --no-ff
 22
+缺陷已经修复

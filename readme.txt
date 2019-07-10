@@ -5,3 +5,4 @@ Git tracks changes.
 --no-ff
 22
 工作做了一半， 还要5个小时2
+我自己提交了代码，push会冲突吗
